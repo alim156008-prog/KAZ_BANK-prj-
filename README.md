@@ -22,7 +22,7 @@ kazbank_project/
 ├── requirements.txt    # Project dependencies
 ├── .env                # Database connection credentials (ignored in git)
 └── README.md           # Documentation and run instructions
-```-
+```
 
 -** Sample curl Commands **
 
