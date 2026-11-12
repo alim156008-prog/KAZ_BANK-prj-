@@ -24,7 +24,7 @@ kazbank_project/
 └── README.md           # Documentation and run instructions
 ```
 
--** Sample curl Commands **
+## Sample curl Commands 
 
 - **Start the server:**
 ```bash
